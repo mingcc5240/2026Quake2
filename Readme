@@ -1,0 +1,4 @@
+Quake2 Original을 개조하여 Visual Studio 2022에서 컴파일이 가능하게 만든 코드입니다.
+1. 원래의 코드를 컴파일한 버전(32비트)
+2. 비주얼베이식6.0을 위한 dll 버전(32비트)
+Have a nice day!!
